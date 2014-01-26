@@ -1,0 +1,31 @@
+[{
+    "text": "adapter",
+    "id": "1",
+    "cls": "folder",
+    "children":[{
+      "text": "adapter1",
+      "id": "4",
+      "leaf": true,
+      "cls": "file"      
+            
+            
+    }]
+}, {
+    "text": "dd",
+     "id": "2",
+    "cls": "folder",
+    
+    "children":[{
+      "text": "dd1",
+      "id": "5",
+      "leaf": true,
+      "cls": "file"      
+            
+            
+    }]
+}, {
+    "text": "debug.js",
+    "id": "3",
+    "leaf": true,
+    "cls": "file"
+}]
