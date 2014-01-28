@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @xmlNamespace 
+ * @xmlType 
+ * @xmlName CLASSIFICATION_GROUP_PARENT_ID
+ * @var CLASSIFICATION_GROUP_PARENT_ID
+ */
+class CLASSIFICATION_GROUP_PARENT_ID
+	{
+
+
+
+} // end class CLASSIFICATION_GROUP_PARENT_ID

@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * @xmlNamespace 
+ * @xmlType 
+ * @xmlName CLASSIFICATION_SYSTEM_LEVEL_NAMES
+ * @var CLASSIFICATION_SYSTEM_LEVEL_NAMES
+ */
+class CLASSIFICATION_SYSTEM_LEVEL_NAMES
+	{
+
+	
+	/**
+	 * @xmlType element
+	 * @xmlMaxOccurs unbounded
+	 * @xmlName CLASSIFICATION_SYSTEM_LEVEL_NAME
+	 * @var CLASSIFICATION_SYSTEM_LEVEL_NAME[]
+	 */
+	public $CLASSIFICATION_SYSTEM_LEVEL_NAME;
+
+
+} // end class CLASSIFICATION_SYSTEM_LEVEL_NAMES

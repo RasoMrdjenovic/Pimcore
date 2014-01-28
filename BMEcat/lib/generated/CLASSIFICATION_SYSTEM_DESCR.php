@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @xmlNamespace 
+ * @xmlType 
+ * @xmlName CLASSIFICATION_SYSTEM_DESCR
+ * @var CLASSIFICATION_SYSTEM_DESCR
+ */
+class CLASSIFICATION_SYSTEM_DESCR
+	{
+
+
+
+} // end class CLASSIFICATION_SYSTEM_DESCR

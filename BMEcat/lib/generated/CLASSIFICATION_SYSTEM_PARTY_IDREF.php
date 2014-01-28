@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * @xmlNamespace 
+ * @xmlType typePARTY_ID
+ * @xmlName CLASSIFICATION_SYSTEM_PARTY_IDREF
+ * @var CLASSIFICATION_SYSTEM_PARTY_IDREF
+ */
+class CLASSIFICATION_SYSTEM_PARTY_IDREF
+	extends typePARTY_ID
+	{
+
+
+
+} // end class CLASSIFICATION_SYSTEM_PARTY_IDREF

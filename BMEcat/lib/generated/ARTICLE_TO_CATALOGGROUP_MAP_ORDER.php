@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * @xmlNamespace 
+ * @xmlType dtINTEGER
+ * @xmlName ARTICLE_TO_CATALOGGROUP_MAP_ORDER
+ * @var ARTICLE_TO_CATALOGGROUP_MAP_ORDER
+ */
+class ARTICLE_TO_CATALOGGROUP_MAP_ORDER
+	extends dtINTEGER
+	{
+
+
+
+} // end class ARTICLE_TO_CATALOGGROUP_MAP_ORDER

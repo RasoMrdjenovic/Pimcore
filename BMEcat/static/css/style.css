@@ -1,0 +1,7 @@
+.bmecat_icon  {
+	background: url(/plugins/BMEcat/static/img/bmecat.jpg) left center no-repeat !important;
+}
+
+.bmecat_icon_import_folder_home {
+	background: url(/plugins/BMEcat/static/img/folder_home.png) left center no-repeat !important;
+}

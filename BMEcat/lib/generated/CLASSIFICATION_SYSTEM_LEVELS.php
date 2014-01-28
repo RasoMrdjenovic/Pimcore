@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * @xmlNamespace 
+ * @xmlType dtINTEGER
+ * @xmlName CLASSIFICATION_SYSTEM_LEVELS
+ * @var CLASSIFICATION_SYSTEM_LEVELS
+ */
+class CLASSIFICATION_SYSTEM_LEVELS
+	extends dtINTEGER
+	{
+
+
+
+} // end class CLASSIFICATION_SYSTEM_LEVELS

@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * @xmlNamespace 
+ * @xmlType typeCLASSIFICATION_GROUP_ID
+ * @xmlName REFERENCE_FEATURE_GROUP_ID2
+ * @var REFERENCE_FEATURE_GROUP_ID2
+ */
+class REFERENCE_FEATURE_GROUP_ID2
+	extends typeCLASSIFICATION_GROUP_ID
+	{
+
+
+
+} // end class REFERENCE_FEATURE_GROUP_ID2

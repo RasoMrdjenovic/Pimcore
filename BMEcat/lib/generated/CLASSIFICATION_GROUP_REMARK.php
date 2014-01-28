@@ -1,0 +1,14 @@
+<?php
+
+/**
+ * @xmlNamespace 
+ * @xmlType 
+ * @xmlName CLASSIFICATION_GROUP_REMARK
+ * @var CLASSIFICATION_GROUP_REMARK
+ */
+class CLASSIFICATION_GROUP_REMARK
+	{
+
+
+
+} // end class CLASSIFICATION_GROUP_REMARK

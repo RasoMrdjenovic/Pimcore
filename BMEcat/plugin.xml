@@ -1,0 +1,30 @@
+<?xml version="1.0"?><zend-config xmlns:zf="http://framework.zend.com/xml/zend-config-xml/1.0/">
+    <plugin>
+        <pluginName>BMEcat</pluginName>
+        <pluginDescription>BMEcat plugin</pluginDescription>
+        <pluginNiceName>BMEcat</pluginNiceName>
+        <pluginIcon>/plugins/BMEcat/static/img/icon.png</pluginIcon>
+        <pluginVersion>1.0.0</pluginVersion>
+        <pluginRevision>1</pluginRevision>
+        <pluginBuildTimestamp></pluginBuildTimestamp>
+        <pluginClassName>BMEcat_Plugin</pluginClassName>
+        <pluginIncludePaths>
+            <path>/BMEcat/lib</path>
+            <path>/BMEcat/controllers</path>
+            <path>/usr/share/php/XML/</path>
+        </pluginIncludePaths>
+        <pluginNamespaces>
+            <namespace>BMEcat</namespace>
+        </pluginNamespaces>
+        <pluginJsPaths>
+            <path>/BMEcat/static/js/admin.js</path>
+    
+        </pluginJsPaths>
+        <pluginCssPaths>
+       	    <path>/BMEcat/static/css/style.css</path>
+        </pluginCssPaths>
+      <!--  <pluginDocumentEditmodeJsPaths>
+            <path>/ExtendedImport/static/js/pimcore/document/tags/demo.js</path>
+        </pluginDocumentEditmodeJsPaths> -->
+    </plugin>
+</zend-config>
