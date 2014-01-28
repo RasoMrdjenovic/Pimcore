@@ -1,0 +1,27 @@
+<?xml version="1.0"?><zend-config xmlns:zf="http://framework.zend.com/xml/zend-config-xml/1.0/">
+    <plugin>
+        <pluginName>ExtendedImport</pluginName>
+        <pluginDescription>Extended Import plugin</pluginDescription>
+        <pluginNiceName>Extended Import</pluginNiceName>
+        <pluginIcon>/plugins/ExtendedImport/static/img/icon.png</pluginIcon>
+        <pluginVersion>1.0.0</pluginVersion>
+        <pluginRevision>1</pluginRevision>
+        <pluginBuildTimestamp></pluginBuildTimestamp>
+        <pluginClassName>ExtendedImport_Plugin</pluginClassName>
+        <pluginCssPaths>
+            <path>/ExtendedImport/static/css/admin.css</path>
+        </pluginCssPaths> 
+        <pluginIncludePaths>
+            <path>/ExtendedImport/lib</path>
+            <path>/ExtendedImport/controllers</path>
+        </pluginIncludePaths>
+        <pluginNamespaces>
+            <namespace>ExtendedImport</namespace>
+        </pluginNamespaces>
+        <pluginJsPaths>
+            <path>/ExtendedImport/static/js/admin.js</path>
+            <path>/ExtendedImport/static/js/workspace/panel.js</path>
+            <path>/ExtendedImport/static/js/workspace/importer.js</path>
+        </pluginJsPaths>
+    </plugin>
+</zend-config>

@@ -1,0 +1,13 @@
+.extendedimport_icon_export{
+    background: url(/pimcore/static/img/icon/page_white_put.png) no-repeat !important;
+}
+.extendedimport_icon_import{
+    background: url(/pimcore/static/img/icon/page_white_get.png) no-repeat !important;
+}
+.extendedimport_icon_refresh{
+    background: url(/pimcore/static/img/icon/page_white_refresh.png) no-repeat !important;
+}
+.extendedimport_icon_rainbow{
+    background: url(/pimcore/static/img/icon/rainbow_star.png) no-repeat !important;
+}
+
